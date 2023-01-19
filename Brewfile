@@ -7,9 +7,12 @@ tap "hashicorp/tap"
 
 cask "iterm2"
 cask "visual-studio-code"
+# cask "firefox"
 cask "1password"
 cask "1password-cli"
 
+brew "zsh-completions"
+brew "zsh-syntax-highlighting"
 brew "curl"
 brew "wget"
 brew "yq"
